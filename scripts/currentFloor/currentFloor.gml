@@ -1,0 +1,1 @@
+return instance_place(x, y, oRoom) - 100000;

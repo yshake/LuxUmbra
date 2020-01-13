@@ -1,0 +1,1 @@
+global.playerWin = 2;
